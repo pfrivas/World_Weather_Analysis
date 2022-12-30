@@ -23,7 +23,9 @@
 <img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png>
 
 ### Customer Travel Destinations Map
+Using the user's desired weather preferences, the gmaps plugin software showed travel destinations with the weather preferences generated using the [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search) app
 <img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png>
 
 ### Travel Itenerary Map
+A travel itenerary between 4 cities seleced by the user was generated using the [Google Maps and Directions API](https://developers.google.com/maps/documentation/directions/overview) app
 <img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png>

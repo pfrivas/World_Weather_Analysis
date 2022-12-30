@@ -3,6 +3,11 @@
 ## Project Overview
 
 ## Resources
+
+**Software:** Python 3.11, Anaconda, Jupyter Notebook
+
+**Code:** [Weather Database](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Weather_Database/Weather_Database.ipynb), [Vacation Search](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Search/Vacation_Search.ipynb), [Vacation Itinerary](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+
 **Data Sources:** 
 - [Citipy](https://github.com/pfrivas/World_Weather_Analysis/tree/main/World_Weather_Analysis/Resources/citipy)
 - [Cities Database](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Resources/cities.csv)
@@ -11,11 +16,6 @@
 - [Open Weather Maps API](https://openweathermap.org/current)
 - [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)
 - [Google Maps and Directions API](https://developers.google.com/maps/documentation/directions/overview)
-
-**Software:** Python 3.11, Anaconda, Jupyter Notebook
-
-**Code:** [Weather Database](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Weather_Database/Weather_Database.ipynb), [Vacation Search](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Search/Vacation_Search.ipynb), [Vacation Itinerary](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/Vacation_Itinerary.ipynb)
-
 
 ## Results
 

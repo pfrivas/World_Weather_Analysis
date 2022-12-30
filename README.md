@@ -3,7 +3,14 @@
 ## Project Overview
 
 ## Resources
-**Data Sources:** Data used in this analysis is found inside of the [Resources]() folder.
+**Data Sources:** 
+- [Citipy](https://github.com/pfrivas/World_Weather_Analysis/tree/main/World_Weather_Analysis/Resources/citipy)
+- [Cities Database](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Resources/cities.csv)
+- [Vacation Database](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation.csv)
+- [Weather Database](https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Weather_Database/WeatherPy_Database.csv)
+- [Open Weather Maps API](https://openweathermap.org/current)
+- [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)
+- [Google Maps and Directions API](https://developers.google.com/maps/documentation/directions/overview)
 
 **Software:** Python 3.11, Anaconda, Jupyter Notebook
 

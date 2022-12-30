@@ -31,10 +31,10 @@ Using the Open Weather Map API, weather data (Maximum Temperature, Cloudiness, W
 
 Using the user's desired weather preferences, the gmaps plugin software showed travel destinations with the weather preferences generated using the [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search) app. The image below shows the randomly generated destinations with the weather information as well as a hotel name for each location.
 
-<img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png>
+<img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png>
 
 ### Travel Itenerary Map
 
 A travel itenerary between 4 cities seleced by the user was generated using the [Google Maps and Directions API](https://developers.google.com/maps/documentation/directions/overview) app. In the image below a travel itenerary was created with the South American cities Caravelas, Santiago Del Estero, La Macarena, and Tambopata.
 
-<img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png>
+<img src = https://github.com/pfrivas/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png>
